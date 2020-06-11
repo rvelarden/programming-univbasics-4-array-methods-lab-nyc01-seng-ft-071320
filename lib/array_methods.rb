@@ -2,6 +2,7 @@ def using_include(array, element)
 array = [element[1]]
 array.include?("Garfield")
 false 
+
 end 
 
 def using_sort(array)
