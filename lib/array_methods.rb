@@ -2,6 +2,7 @@ def using_include(array, element)
 array = [element1]
 array.include?("Garfield")
 false 
+array.include?("Garfield")
 
 end 
 
