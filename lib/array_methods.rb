@@ -5,6 +5,8 @@ famous_cats.include?("Garfield")
 famous_cats.include?("Maru")
   => true
 end
+end
+end 
 
 def using_sort(array)
 
