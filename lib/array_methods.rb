@@ -1,6 +1,5 @@
 def using_include(array, element)
-array = [element]
-array.include?(element1)
+array.include?(element)
 true
 array.include?(element2)
 false
